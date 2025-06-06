@@ -1,4 +1,4 @@
 # Mikasa Lite
 
-An Anime Tracker for Anime Nerds.
+An Anime Tracker for Otakus.
 This is a release page, The app is invite only!
